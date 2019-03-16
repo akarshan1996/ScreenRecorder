@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="record_video">Record Video</string>
+    <string name="record_voice_calls">Record Calls(turn service on)</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
